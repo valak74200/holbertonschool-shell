@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script pour afficher le chemin absolu du répertoire de travail actuel
+
+pwd
